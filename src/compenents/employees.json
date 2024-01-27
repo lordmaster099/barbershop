@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Rodriguez",
+    "image": "https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/03/GettyImages-1092658864_hero-1024x575.jpg?w=420&h=200",
+    "position": "Master Barber",
+    "description": "With over 10 years of experience, Alex is our master barber. His precision and attention to detail ensure that every haircut is a work of art. Whether it's a classic style or a modern trend, Alex has the expertise to create the perfect look for you."
+  },
+  {
+    "id": 2,
+    "name": "Sophia Martinez",
+    "image": "https://media.istockphoto.com/id/1278139568/photo/studio-portrait-of-20-year-old-woman.jpg?s=612x612&w=0&k=20&c=FSEdX6EGKrjbCvOJk9idiYZJoSErA9bwizHEkW86A3c=",
+    "position": "Senior Stylist",
+    "description": "Sophia is our senior stylist with a flair for creativity. She stays up-to-date with the latest hair trends and is known for her innovative cuts and styles. Sophia's passion for hairstyling shines through in every client's transformation."
+  },
+  {
+    "id": 3,
+    "name": "Carlos Gomez",
+    "image": "https://www.wallpaperflare.com/static/540/70/496/tom-hardy-man-actor-celebrity-wallpaper.jpg",
+    "position": "Barber",
+    "description": "Carlos is a skilled barber who takes pride in delivering top-notch service. He specializes in classic barbering techniques and ensures that every client leaves the chair looking sharp and satisfied. Carlos is friendly, approachable, and always ready for a great conversation."
+  },
+  {
+    "id": 4,
+    "name": "Isabella Rivera",
+    "image": "https://expertphotography.b-cdn.net/wp-content/uploads/2019/04/female-face-eye-level-portrait.jpg",
+    "position": "Apprentice Barber",
+    "description": "Isabella is our apprentice barber, eager to learn and perfect her craft. Under the mentorship of our experienced team, she is honing her skills in various barbering techniques. Isabella is dedicated to providing excellent service and creating a welcoming atmosphere for our clients."
+  },
+  {
+    "id": 5,
+    "name": "Miguel Hernandez",
+    "image": "https://cdn.platinumlist.net/upload/artist/balti_1603-full1687441848.jpeg",
+    "position": "Barber",
+    "description": "Miguel brings a fresh perspective to our team as a skilled barber. With a keen eye for detail and a passion for diverse styles, Miguel ensures that each client receives a personalized and satisfying experience."
+  },
+  {
+    "id": 6,
+    "name": "Olivia Silva",
+    "image": "https://viberatecdn.blob.core.windows.net/entity/artist/najla-ettounsia-MmLWz",
+    "position": "Stylist",
+    "description": "Olivia is a talented stylist known for her versatility. Specializing in both modern and classic styles, she is committed to making every client look and feel their best. Olivia's friendly demeanor and artistic touch create a positive salon experience."
+  },
+  {
+    "id": 7,
+    "name": "Diego Ramos",
+    "image": "https://www.moussem.be/upload/1/event/medium/lotfi_bouchnak.jpg",
+    "position": "Barber",
+    "description": "Diego is a passionate barber dedicated to his craft. With a focus on precision and customer satisfaction, Diego strives to deliver outstanding haircuts tailored to each client's preferences. His friendly nature makes every visit to the barber shop enjoyable."
+  },
+  {
+    "id": 8,
+    "name": "Elena Cortez",
+    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/06/01/09/wonder-woman.jpg",
+    "position": "Stylist",
+    "description": "Elena, our skilled stylist, brings creativity and innovation to every hairstyle. With an eye for the latest trends and a commitment to personalized service, Elena ensures that each client leaves the salon feeling confident and stylish."
+  }
+]

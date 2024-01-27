@@ -1,0 +1,231 @@
+{
+  "Services": [
+    {
+      "id": "haircut",
+      "name": "Haircut",
+      "price": 25
+    },
+    {
+      "id": "styling",
+      "name": "Styling",
+      "price": 35
+    },
+    {
+      "id": "beard-trim",
+      "name": "Beard Trim",
+      "price": 15
+    },
+    {
+      "id": "hot-towel-shave",
+      "name": "Hot Towel Shave",
+      "price": 30
+    },
+    {
+      "id": "facial-grooming",
+      "name": "Facial Grooming",
+      "price": 20
+    },
+    {
+      "id": "clipper-cut",
+      "name": "Clipper Cut",
+      "price": 22
+    },
+    {
+      "id": "scissor-cut",
+      "name": "Scissor Cut",
+      "price": 28
+    },
+    {
+      "id": "childs-haircut",
+      "name": "Child's Haircut",
+      "price": 18
+    },
+    {
+      "id": "seniors-haircut",
+      "name": "Senior's Haircut",
+      "price": 20
+    },
+    {
+      "id": "deep-conditioning-treatment",
+      "name": "Deep Conditioning Treatment",
+      "price": 25
+    },
+    {
+      "id": "hair-wash-blow-dry",
+      "name": "Hair Wash and Blow Dry",
+      "price": 30
+    },
+    {
+      "id": "special-event-styling",
+      "name": "Special Event Styling",
+      "price": 40
+    },
+    {
+      "id": "hair-extensions",
+      "name": "Hair Extensions",
+      "price": 50
+    },
+    {
+      "id": "straight-razor-fade",
+      "name": "Straight Razor Fade",
+      "price": 35
+    },
+    {
+      "id": "color-correction",
+      "name": "Color Correction",
+      "price": 40
+    },
+    {
+      "id": "scalp-massage",
+      "name": "Scalp Massage",
+      "price": 15
+    },
+    {
+      "id": "hair-braiding",
+      "name": "Hair Braiding",
+      "price": 45
+    },
+    {
+      "id": "waxing-services",
+      "name": "Waxing Services",
+      "price": 18
+    }
+  ],
+  "booking": [
+    {
+      "id": "e3a3",
+      "name": "123",
+      "lastName": "123",
+      "tel": "12345678",
+      "ser": "childs-haircut",
+      "resDate": "2024-01-11",
+      "dayOfWeek": "Thursday",
+      "resTime": "11:30"
+    },
+    {
+      "id": "4ca9",
+      "name": "123",
+      "lastName": "123",
+      "tel": "12345678",
+      "ser": "childs-haircut",
+      "resDate": "2024-01-11",
+      "dayOfWeek": "Thursday",
+      "resTime": "11:30"
+    },
+    {
+      "id": "3751",
+      "name": "123",
+      "lastName": "123",
+      "tel": "12345678",
+      "ser": "childs-haircut",
+      "resDate": "2024-01-11",
+      "dayOfWeek": "Thursday",
+      "resTime": "11:30"
+    },
+    {
+      "id": "3c37",
+      "name": "123",
+      "lastName": "123",
+      "tel": "12345678",
+      "ser": "childs-haircut",
+      "resDate": "2024-01-11",
+      "dayOfWeek": "Thursday",
+      "resTime": "11:30"
+    },
+    {
+      "id": "54bb",
+      "name": "123",
+      "lastName": "123",
+      "tel": "12345678",
+      "ser": "childs-haircut",
+      "resDate": "2024-01-11",
+      "dayOfWeek": "Thursday",
+      "resTime": "11:30"
+    },
+    {
+      "id": "f6fb",
+      "name": "123",
+      "lastName": "123",
+      "tel": "12345678",
+      "ser": "childs-haircut",
+      "resDate": "2024-01-11",
+      "dayOfWeek": "Thursday",
+      "resTime": "11:30"
+    },
+    {
+      "id": "0ff4",
+      "name": "123",
+      "lastName": "123",
+      "tel": "12345678",
+      "ser": "childs-haircut",
+      "resDate": "2024-01-11",
+      "dayOfWeek": "Thursday",
+      "resTime": "11:30"
+    },
+    {
+      "id": "3d26",
+      "name": "zakariya",
+      "lastName": "Ourteni",
+      "tel": "99482110",
+      "ser": "childs-haircut",
+      "resDate": "2024-01-26",
+      "dayOfWeek": "Friday",
+      "resTime": "20:30"
+    },
+    {
+      "id": "9e29",
+      "name": "aaaaaa",
+      "lastName": "aaaaaaz",
+      "tel": "12345678",
+      "ser": "scalp-massage",
+      "resDate": "2024-01-11",
+      "dayOfWeek": "Thursday",
+      "resTime": "08:00"
+    }
+  ],
+  "FeedBack": [
+    {
+      "customerId": "abc123",
+      "name": "Alex Johnson",
+      "feedback": "Just wanted to say thanks for the stellar haircut experience! The attention to detail and friendly service made my visit memorable. Can't wait for the next one!",
+      "starRating": 5,
+      "id": "8046"
+    },
+    {
+      "customerId": "def456",
+      "name": "Emily Rodriguez",
+      "feedback": "Your team provides top-notch service! I appreciate the skill and professionalism of the barbers. My haircut exceeded expectations. Kudos to your fantastic team!",
+      "starRating": 4,
+      "id": "51f5"
+    },
+    {
+      "customerId": "ghi789",
+      "name": "Michael Thompson",
+      "feedback": "I'm impressed with the welcoming atmosphere at your shop. The barbers' skills and the positive vibe created an excellent experience. Thank you for the great service!",
+      "starRating": 5,
+      "id": "a3a9"
+    },
+    {
+      "customerId": "jkl012",
+      "name": "Jessica Lee",
+      "feedback": "I wanted to express my appreciation for the exceptional styling I received during my visit. The attention to detail and friendly staff made it a fantastic experience. See you again soon!",
+      "starRating": 3.5,
+      "id": "989c"
+    },
+    {
+      "customerId": "mno345",
+      "name": "Ryan Carter",
+      "feedback": "I'm always satisfied with the service at your shop. The consistently high-quality haircuts and the welcoming environment keep me coming back. Thanks for the great experiences!",
+      "starRating": 4.5,
+      "id": "0dfd"
+    },
+    {
+      "customerId": "pqr678",
+      "name": "Sophie Miller",
+      "barberShopName": "Modern Clippers",
+      "feedback": "I had an amazing experience at Modern Clippers! The stylist understood exactly what I wanted and delivered a flawless haircut. The atmosphere is trendy and inviting. I highly recommend it!",
+      "starRating": 4,
+      "id": "e9ef"
+    }
+  ]
+}
