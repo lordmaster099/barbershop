@@ -161,11 +161,12 @@ function Reservations() {
                   <option value="0">Services</option>
                   {Service.map((service) => (
                     <option key={service.id} value={service.id}>
-                      {service.name}
+                      {service.name} : {service.price}
                     </option>
                   ))}
                 </select>
               )}
+              
             </div>
             <div className=" flex space-x-7 justify-center">
               <div htmlFor="date" className=" text-2xl">
